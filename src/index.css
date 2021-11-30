@@ -1,0 +1,28 @@
+body {
+    margin: 0 5% 0 5%;
+}
+
+.event-form {
+    margin: 10% 0 0 0;
+}
+
+button.del-btn {
+    float: right;
+}
+
+
+ol.table-block, ul.event-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li.table-block-item {
+    text-align: center;
+}
+
+li.event-list-item:hover {
+    background-color: grey;
+}
+
+
